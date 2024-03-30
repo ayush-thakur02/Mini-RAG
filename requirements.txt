@@ -1,0 +1,4 @@
+pip
+gradio
+nltk==3.6.5
+scikit-learn
